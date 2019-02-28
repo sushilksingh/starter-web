@@ -15,3 +15,7 @@ What is the purpose of one's life is a question that everyone asks themselves...
 This is a simple web project
 
 ## How To Contribute
+
+
+## Copyright
+2019 Git.Training
