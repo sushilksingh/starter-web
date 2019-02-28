@@ -4,11 +4,14 @@ This is a simple website project for showing how to use the Git and Github toget
 
 ## Introduction
 
+This is where the Introduction will go. Hope you find it helpful.
+
 ## Purpose
 
-Sample website with plenty of files for demos
+What is the purpose of one's life is a question that everyone asks themselves...
 
 ## Deployment
 
+This is a simple web project
 
 ## How To Contribute
