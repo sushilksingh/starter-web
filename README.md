@@ -21,4 +21,5 @@ This is a simple web project
 Another change before merging from branch.
 
 ## Copyright
-2019 Git.Training
+2019 Git.Training. All rights reserved.
+
