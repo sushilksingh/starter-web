@@ -3,6 +3,7 @@
 This is a simple website project for showing how to use the Git and Github together. Adding 
 a line for REBASING examples, then 
 some more changes from myfeature branch too
+More emergency fixes!!
 
 ## Introduction
 
