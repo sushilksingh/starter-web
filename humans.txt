@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to all peope on Earth
+	New Text is going here...
 
 # TECHNOLOGY COLOPHON
 
