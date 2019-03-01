@@ -16,6 +16,7 @@ This is a simple web project
 
 ## How To Contribute
 
+Another change before merging from branch.
 
 ## Copyright
 2019 Git.Training
